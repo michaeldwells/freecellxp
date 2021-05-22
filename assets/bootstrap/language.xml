@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<language name="en">
+		
+		<you_win>You win</you_win>
+		<new_game>New</new_game>
+		<game_over>Game Over</game_over>
+		<restart>Restart</restart>
+		<yes>Yes</yes>
+		<no>No</no>
+		<undo>Undo</undo>
+		<youwongame>Congratulations, you win!</youwongame>
+		<youlostgame>Sorry, you lose. There are no more legal moves. Do you want to play again?</youlostgame>
+		
+		<select>Select</select>
+		<statistics>Statistics</statistics>
+
+		<ok>OK</ok>
+		<clear>Clear</clear>
+		
+		<freecell>FreeCell</freecell>
+		<do_you_want_to_resign>Do you want to resign this game?</do_you_want_to_resign>
+		<all_progress_will_be_lost>All progress will be lost.</all_progress_will_be_lost>
+		
+		<game_number>Game Number</game_number>
+		<select_game_numeber>Select game number from 1 to 1000000</select_game_numeber>
+		
+		<freecell_statistics>FreeCell Statistics</freecell_statistics>
+		<this_session>This session: </this_session>
+		<won>Won: </won>
+		<lost>Lost: </lost>
+		<win_percentage>Win percentage: </win_percentage>
+		<total>Total: </total>
+		
+		<are_you_sure_you_want_to_delete_statistics>Are you sure you want to delete all statistics?</are_you_sure_you_want_to_delete_statistics>
+		
+		<cards_left>Cards Left</cards_left>
+		<freecell_game>FreeCell Game  #</freecell_game>
+	
+		
+		
+		<do_you_want_to_play_again>Do you want to play again?</do_you_want_to_play_again>
+		<check_the_box_to_select>Check the box to select a game.</check_the_box_to_select>
+		
+		<selecet_game>Select game</selecet_game>
+		
+		
+
+		<same_game>Same game</same_game>
+		
+	</language>		
+	
+	<language name="nl">
+		<you_win>Je hebt gewonnen!</you_win>
+		<new_game>Nieuw</new_game>
+		<game_over>Game Over</game_over>
+		<restart>Herstart</restart>
+		<yes>Ja</yes>
+		<no>Nee</no>
+		<undo>Undo</undo>
+		<youwongame>Gefeliciteerd, je hebt gewonnen!</youwongame>
+		<youlostgame>Sorry, je hebt verloren. Er zijn geen legale zetten meer, wil je nogmaals spelen?</youlostgame>
+		
+		<select>Selecteer</select>
+		<statistics>Statistiekens</statistics>
+
+		<ok>OK</ok>
+		<clear>Reset</clear>
+		
+		<freecell>FreeCell</freecell>
+		<do_you_want_to_resign>Weet je zeker dat je wilt opgeven?</do_you_want_to_resign>
+		<all_progress_will_be_lost>Alle vooruitgang zal verloren gaan.</all_progress_will_be_lost>
+		
+		<game_number>Spel Nummer</game_number>
+		<select_game_numeber>Kies een nummer van 1 tot 1000000</select_game_numeber>
+		
+		<freecell_statistics>FreeCell Statistieken</freecell_statistics>
+		<this_session>Deze sessie</this_session>
+		<won>Gewonnen: </won>
+		<lost>Verloren: </lost>
+		<win_percentage>Win percentage: </win_percentage>
+		<total>Totaal</total>
+		
+		<are_you_sure_you_want_to_delete_statistics>Weet je zeker dat je al deze statistieken wilt verwijderen?</are_you_sure_you_want_to_delete_statistics>
+		
+		<cards_left>Kaarten</cards_left>
+		<freecell_game>FreeCell Spel: #</freecell_game>
+	
+		
+		
+		<do_you_want_to_play_again>Wil je nog een keer spelen?</do_you_want_to_play_again>
+		<check_the_box_to_select>Check de box om een spel te kiezen.</check_the_box_to_select>
+		
+		<selecet_game>Selecteer spel</selecet_game>
+		
+		
+
+		<same_game>Zelfde spel</same_game>
+		
+	</language>	
+	
+	<language name="fr">
+		<you_win>Vous gagnez !</you_win>
+		<new_game>Nouvelle</new_game>
+		<game_over>Partie terminée</game_over>
+		<restart>Redémarrez</restart>
+		<yes>Oui</yes>
+		<no>Non</no>
+		<undo>Annuler</undo>
+		<youwongame>Félicitations ! Vous avez gagné !</youwongame>
+		<youlostgame>Désolé, vous avez perdu. Il n'y a plus de déplacements autorisés. Voulez-vous rejouer ?</youlostgame>
+		
+		<select>Choisir</select>
+		<statistics>Statistiques</statistics>
+
+		<ok>OK</ok>
+		<clear>Effacer</clear>
+		
+		<freecell>FreeCell</freecell>
+		<do_you_want_to_resign>Voulez-vous abandonner cette partie ?</do_you_want_to_resign>
+		<all_progress_will_be_lost>Toute progression sera perdue.</all_progress_will_be_lost>
+		
+		<game_number>Numéro du jeu</game_number>
+		<select_game_numeber>Choisissez un numéro entre 1 et 1000000</select_game_numeber>
+		
+		<freecell_statistics>Statistiques de FreeCell</freecell_statistics>
+		<this_session>Cette session : </this_session>
+		<won>gagnées : </won>
+		<lost>perdues : </lost>
+		<win_percentage>réussite (%) : </win_percentage>
+		<total>Total : </total>
+		
+		<are_you_sure_you_want_to_delete_statistics>Voulez-vous vraiment supprimer les statistiques ?</are_you_sure_you_want_to_delete_statistics>
+		
+		<cards_left>Cartes</cards_left>
+		<freecell_game>Jeu FreeCell #</freecell_game>
+	
+		
+		
+		<do_you_want_to_play_again>Voulez-vous rejouer ?</do_you_want_to_play_again>
+		<check_the_box_to_select>Sélectionner un jeu ? Cochez la case.</check_the_box_to_select>
+		
+		<selecet_game>Choisir une partie</selecet_game>			
+
+		<same_game>Partie identique</same_game>
+		
+	</language>		
+	
+	<language name="de">
+		<you_win>Spielende</you_win>
+		<new_game>Neu</new_game>
+		<game_over>Spielende</game_over>
+		<restart>Neustart</restart>
+		<yes>Ja</yes>
+		<no>Nein</no>
+		<undo>Zurück</undo>
+		<youwongame>Sie haben gewonnen!</youwongame>
+		<youlostgame>Es sind keine legalen Züge mehr möglich. Möchten Sie noch einmal spielen? </youlostgame>
+		
+		<select>Spiel wählen</select>
+		<statistics>Statistik</statistics>
+
+		<ok>OK</ok>
+		<clear>Löschen</clear>
+		
+		<freecell>FreeCell</freecell>
+		<do_you_want_to_resign>Möchten Sie dieses Spiel aufgeben? </do_you_want_to_resign>
+		<all_progress_will_be_lost>Aller Fortschritt geht verloren.</all_progress_will_be_lost>
+		
+		<game_number>Spielnummer ?</game_number>
+		<select_game_numeber>Wähle hierunter ein neues Spiel:</select_game_numeber>
+		
+		<freecell_statistics>FreeCell-Statistik</freecell_statistics>
+		<this_session>Dieses Spiel: </this_session>
+		<won>gewonnen: </won>
+		<lost>verloren: </lost>
+		<win_percentage>Siegprozentsatz: </win_percentage>
+		<total>Gesamt: </total>
+		
+		<are_you_sure_you_want_to_delete_statistics>Sind Sie sicher, dass alle Statistiken gelöscht werden sollen?</are_you_sure_you_want_to_delete_statistics>
+		
+		<cards_left>Karten: </cards_left>
+		<freecell_game>FreeCell-Spielnr.: </freecell_game>		
+		
+		<do_you_want_to_play_again>Möchten Sie noch einmal spielen?</do_you_want_to_play_again>
+		<check_the_box_to_select>Spiel auswählen? Klicke in das Fach:</check_the_box_to_select>
+		
+		<selecet_game>Spielnummer ?</selecet_game>			
+
+		<same_game>Gleiches Spiel</same_game>
+		
+	</language>		
+
+	<language name="it">
+			<you_win>You win</you_win>
+		<new_game>New</new_game>
+		<game_over>Game Over</game_over>
+		<restart>Restart</restart>
+		<yes>Yes</yes>
+		<no>No</no>
+		<undo>Undo</undo>
+		<youwongame>Congratulations, you win!</youwongame>
+		<youlostgame>Sorry, you lose. There are no more legal moves. Do you want to play again?</youlostgame>
+		
+		<select>Select</select>
+		<statistics>Statistics</statistics>
+
+		<ok>OK</ok>
+		<clear>Clear</clear>
+		
+		<freecell>FreeCell</freecell>
+		<do_you_want_to_resign>Do you want to resign this game?</do_you_want_to_resign>
+		<all_progress_will_be_lost>All progress will be lost.</all_progress_will_be_lost>
+		
+		<game_number>Game Number</game_number>
+		<select_game_numeber>Select game number from 1 to 1000000</select_game_numeber>
+		
+		<freecell_statistics>FreeCell Statistics</freecell_statistics>
+		<this_session>This session: </this_session>
+		<won>Won: </won>
+		<lost>Lost: </lost>
+		<win_percentage>Win percentage: </win_percentage>
+		<total>Total: </total>
+		
+		<are_you_sure_you_want_to_delete_statistics>Are you sure you want to delete all statistics?</are_you_sure_you_want_to_delete_statistics>
+		
+		<cards_left>Cards Left</cards_left>
+		<freecell_game>FreeCell Game  #</freecell_game>
+	
+		
+		
+		<do_you_want_to_play_again>Do you want to play again?</do_you_want_to_play_again>
+		<check_the_box_to_select>Check the box to select a game.</check_the_box_to_select>
+		
+		<selecet_game>Select game</selecet_game>
+		
+		
+
+		<same_game>Same game</same_game>
+	</language>		
+	
+	
+
+
+
+</data>
